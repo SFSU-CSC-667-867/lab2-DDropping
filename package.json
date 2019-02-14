@@ -1,0 +1,26 @@
+{
+  "name": "lab2-ddropping",
+  "version": "1.0.0",
+  "description": "This is a rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-DDropping.git"
+  },
+  "keywords": [
+    "lab2"
+  ],
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-DDropping/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-DDropping#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
